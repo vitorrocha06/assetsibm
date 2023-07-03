@@ -1,0 +1,14 @@
+.modalColumn {
+  margin-bottom: 2rem;
+}
+
+.dashboardAccordionContent {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.publicDashboardsAccordion .cds--accordion__content {
+  padding-right: 3rem !important;
+}

@@ -1,0 +1,15 @@
+#newExperimentButton {
+  position: fixed;
+  left: 1rem;
+  z-index: 10000;
+  bottom: 1rem;
+}
+
+#runExperimentButton {
+  opacity: 30%;
+  transition: 0.6s;
+}
+
+#runExperimentButton:hover {
+  opacity: 100%;
+}

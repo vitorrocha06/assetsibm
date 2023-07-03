@@ -1,0 +1,30 @@
+.cds--header {
+  position: sticky !important;
+}
+
+.cds--header svg {
+  width: 15px;
+}
+
+#helpModalToggle {
+  border-radius: 50%;
+  opacity: 30%;
+  height: 3rem;
+  width: 3rem;
+  background-color: #0f62fe;
+  position: fixed;
+  z-index: 8002;
+  bottom: -1rem;
+  right: -1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: 0.6s;
+}
+
+#helpModalToggle:hover {
+  cursor: pointer;
+  opacity: 100%;
+  bottom: 0.5rem;
+  right: 0.5rem;
+}

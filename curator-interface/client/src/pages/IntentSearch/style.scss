@@ -1,0 +1,26 @@
+#headMenu {
+  position: fixed;
+  width: 100%;
+  height: 3rem;
+  display: flex;
+  z-index: 2;
+}
+
+.tableAccordion .cds--accordion__content {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+#noResults {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.noResultsStack {
+  display: flex !important;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

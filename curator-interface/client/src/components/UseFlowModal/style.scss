@@ -1,0 +1,18 @@
+.cds--modal-container--lg::not(#interestModal) {
+  height: 90% !important;
+}
+
+#modalBody p {
+  width: 100%;
+  font-size: medium;
+  text-align: justify;
+  padding: 0;
+}
+
+.cds--progress li {
+  width: 20%;
+}
+
+.cds--progress-line {
+  width: 100% !important;
+}

@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "group-by": "^0.0.1",
+    "ibm_db": "^2.8.1",
+    "ibm-cloud-sdk-core": "^2.17.12",
+    "ibm-watson": "6.2.2",
+    "ibmid-login": "^1.17.0",
+    "shuffle-seed": "^1.1.6"
+  }
+}

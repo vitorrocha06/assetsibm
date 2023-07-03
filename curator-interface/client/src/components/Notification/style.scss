@@ -1,0 +1,25 @@
+.notification {
+  position: fixed;
+  right: 0;
+  top: 0;
+  margin-top: 3rem;
+  animation: 8s fadeIn;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    right: -18rem;
+  }
+  20% {
+    opacity: 1;
+    right: 0px;
+  }
+  80% {
+    opacity: 1;
+    right: 0px;
+  }
+  100% {
+    opacity: 0;
+  }
+}
